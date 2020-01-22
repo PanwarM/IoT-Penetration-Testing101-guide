@@ -77,10 +77,10 @@ How to step into IoT penetration testing
    
   - Gattacker
   
-  - ___Runnig Gattacker___
+  - ___Running Gattacker___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
-  - ___Runnig Gattacker___
+  - ___Running Gattacker___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
    - ___btlejuice___
