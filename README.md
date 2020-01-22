@@ -71,7 +71,7 @@ How to step into IoT penetration testing
 
 ### Embedded application
    
-   <https://www.owasp.org/index.php/OWASP_Embedded_Application_Security>
+   <https://owasp.org/www-project-embedded-application-security/migrated_content>
     
 ### 2. Bluetooth pentesting
    
