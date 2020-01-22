@@ -20,4 +20,4 @@ This resource was made by the developers and hackers alike! We appreciate and re
 - If you have any issues accessing any of the resources listed here, please let us know.
 
 ## Contributors
-- [Pinky Bai](https://www.linkedin.com/in/pinky-bai)
+- [Pinky Bai](https://www.linkedin.com/in/pinky-bai-13a547a5)
