@@ -10,21 +10,21 @@ How to step into IoT penetration testing
 |__IoT Penetration testing Framework__  |
 | --------------------------------------|
 | 1.[IoTSecFuzz](https://gitlab.com/invuls/iot-projects/iotsecfuzz)			        |
-| 2.Expliot Framework                   |
-| 3.Routersploit			|
+| 2.[Expliot Framework](https://gitlab.com/expliot_framework/expliot)                   |
+| 3.[Routersploit](https://github.com/threat9/routersploit)			|
 
 
 | __Firmware Reverse engineering:__     |
 | --------------------------------------|
-| 1. binwalk                            |
-| 2. firmwalker                         |
-| 3. FACT-core                          |
-| 4. radare2                            |
-| 5. capstone                           |
-| 6. angr                               |
-| 7. flawfinder                         |
-| 8. firmware modkit                    |
-| 9. r2ghidra-dec                       |
+| 1. [binwalk](https://github.com/ReFirmLabs/binwalk)                            |
+| 2. [firmwalker](https://github.com/craigz28/firmwalker)                         |
+| 3. [FACT-core](https://github.com/fkie-cad/FACT_core)                          |
+| 4. [radare2](https://github.com/radareorg/radare2)                            |
+| 5. [capstone](http://www.capstone-engine.org/)                           |
+| 6. [angr](https://github.com/angr/angr)                               |
+| 7. [flawfinder](https://github.com/david-a-wheeler/flawfinder)                         |
+| 8. [firmware modkit](https://github.com/rampageX/firmware-mod-kit)                    |
+| 9. [r2ghidra-dec](https://github.com/radareorg/r2ghidra-dec)                       |
  
 
 | __Firmware emulating:__	|
