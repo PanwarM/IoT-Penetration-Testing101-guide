@@ -1,4 +1,4 @@
-![image](https://github.com/V33RU/IoT-Penetration-Testing101-guide/blob/master/git.PNG)
+![image](https://github.com/V33RU/IoT-Penetration-Testing101-guide/blob/master/git.png)
 
 
 # IoT-Penetration-Testing101-Guide
