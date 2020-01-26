@@ -49,8 +49,8 @@ How to step into IoT penetration testing
 	
 |__Hardware:__	    |
 | ------------------|
-| 1.flashrom(https://flashrom.org/Flashrom)        |
-| 2.openocd(https://github.com/ntfreak/openocd)         |
+| 1.[flashrom](https://flashrom.org/Flashrom)        |
+| 2.[openocd](https://github.com/ntfreak/openocd)         |
 	
 |__Apk Analyzers:__ |
 | ------------------|
