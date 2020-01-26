@@ -29,34 +29,34 @@ How to step into IoT penetration testing
 
 | __Firmware emulating:__	|
 | ------------------------------|
-| 1. FAT tool                   |
-| 2. Qemu             		|	
-| 3. Qiling         		|
-| 4. Firmadyne        		|
+| 1. [FAT tool](https://github.com/attify/firmware-analysis-toolkit)                   |
+| 2. [Qemu](https://github.com/qemu/qemu)             		|	
+| 3. [Qiling](https://github.com/qilingframework/qiling)         		|
+| 4. [Firmadyne](https://github.com/firmadyne/firmadyne)        		|
 
 
 
 | __BluetoothTool__ | __Hardware Requirements__ | 
 | -------------------|---------------------------|
-| Gattacker         | CSR 4.0                   | 
-| Bluez             | CSR 4.0                   | 
-| bettercap         | CSR 4.0                   |
-| btlejuice         | CSR 4.0                   |
-| nrfconnect        | NRF52840                  |
-| sniffle           | TI CC1352R                |
+| [Gattacker](https://github.com/securing/gattacker)         | CSR 4.0                   | 
+| [Bluez](http://www.bluez.org/)             | CSR 4.0                   | 
+| [bettercap](https://www.bettercap.org/)         | CSR 4.0                   |
+| [btlejuice](https://github.com/DigitalSecurity/btlejuice)         | CSR 4.0                   |
+| [nrfconnect](https://www.nordicsemi.com/Software-and-tools/Development-Tools/nRF-Connect-for-desktop)        | NRF52840                  |
+| [sniffle](https://github.com/nccgroup/Sniffle)           | TI CC1352R                |
 
 
 	
 |__Hardware:__	    |
 | ------------------|
-| 1.flashrom        |
-| 2.openocd         |
+| 1.flashrom(https://flashrom.org/Flashrom)        |
+| 2.openocd(https://github.com/ntfreak/openocd)         |
 	
 |__Apk Analyzers:__ |
 | ------------------|
-| 1.MobSF           |
-| 2.QARK            | 
-| 3.Objection       |
+| 1.[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)           |
+| 2.[QARK](https://github.com/linkedin/qark)            | 
+| 3.[Objection](https://github.com/sensepost/objection)       |
 
 ## Setup the Lab -- Download the OVA file from the below link 
 
@@ -84,6 +84,9 @@ How to step into IoT penetration testing
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
    - ___btlejuice___
+   
+   'BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)'
+   "BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters."
     
         - Running btlejuice
         - btlejuice-proxy (in vm)
