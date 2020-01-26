@@ -85,9 +85,8 @@ How to step into IoT penetration testing
     
    - ___btlejuice___
    
-   'BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)'
-   "BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters."
-    
+   "BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"
+   "BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters.
         - Running btlejuice
         - btlejuice-proxy (in vm)
         - btlejuice -u (ip address) -w (host linux)
