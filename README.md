@@ -69,10 +69,14 @@ How to step into IoT penetration testing
 
 ### 1. Network pentesting on devices
 
+******************************************************************************************************************************
+
 ### 2. Embedded application
    
    <https://owasp.org/www-project-embedded-application-security/migrated_content>
-    
+
+******************************************************************************************************************************
+
 ### 3. Bluetooth pentesting
    
   - Gattacker
@@ -107,6 +111,7 @@ How to step into IoT penetration testing
    - ___sudo bettercap -caplet https-ui (for web ui)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
+******************************************************************************************************************************
   
 ### 4. Firmware Revere engineering
     
@@ -116,10 +121,11 @@ How to step into IoT penetration testing
    - ___FACT UI (after running script ui will load at https://127.0.0.1:5000)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
-      
+*****************************************************************************************************************************
+
 ### 5. Hardware Exploitation
 
-
+******************************************************************************************************************************
 
 ### ***Exploit Frameworks***
 	
