@@ -62,7 +62,7 @@ How to step into IoT penetration testing
 
 - username : iotpentest
 - password : iot
-- <https://drive.google.com/open?id=1JQvY8TppPc7hz3V9fJU0PvWSIiNvX5YX>
+- <https://drive.google.com/open?id=1XwGqkLax2irSPpwEpeAqypl9vEywzw3D>
 
 ## *write your own way approach to pentest device
 --------------------------------------------------------------------------------------------------------------------------
