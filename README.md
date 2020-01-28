@@ -69,11 +69,11 @@ How to step into IoT penetration testing
 
 ### 1. Network pentesting on devices
 
-### Embedded application
+### 2. Embedded application
    
    <https://owasp.org/www-project-embedded-application-security/migrated_content>
     
-### 2. Bluetooth pentesting
+### 3. Bluetooth pentesting
    
   - Gattacker
   
@@ -108,7 +108,7 @@ How to step into IoT penetration testing
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
   
-### 3. Firmware Revere engineering
+### 4. Firmware Revere engineering
     
    - ___FACT Tool (Firmware analysis comparison toolkti)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
@@ -117,16 +117,31 @@ How to step into IoT penetration testing
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
       
-### 4. Hardware Exploitation
+### 5. Hardware Exploitation
 
 
-### 5. Exploit Frameworks 
+
+### ***Exploit Frameworks***
 	
    ___expliot framework___
-    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
-   
+   ____Description:
+   'Expliot is a framework for security testing IoT and IoT infrastructure. It provides a set of plugins (test cases)
+and can be extended easily to create new plugins. The name expliot is a pun on exploit and explains the purpose of
+the framework i.e. IoT exploitation. It is developed in python3'
+
+   ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
+
+----------------------------------------------------------------------------------------------------------------------------------  
    ___IoTSecFuzz___
-    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
+   ____Description:
+   IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.
+The key aspects of the tool has become a flexible modular system with the ability to add your own modules and combine them.
    
+   ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
+
+-------------------------------------------------------------------------------------------------------------------------------------   
    ___Routersploit___
-    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
+   ____Description:
+  The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.
+
+   ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
