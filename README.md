@@ -95,8 +95,8 @@ How to step into IoT penetration testing
    - ___Btlejuice___
    
    ___Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"___
-    
-	  - Running btlejuice
+   								
+  - Running btlejuice
           - btlejuice-proxy (__in vm__)
           - btlejuice -u (ip address) -w (__host linux__)
           - localhost:8080 (__in any web browser - host machine__)
@@ -132,7 +132,9 @@ How to step into IoT penetration testing
  
    ___Description: Firmware Analysis and Comparison Tool (formerly known as Fraunhofer's Firmware Analysis Framework (FAF)) is intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analysis. Additionally, it can compare several images or single files.___
      
-      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
+  
+  ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
+     
      
    - ___FACT UI (after running script ui will load at https://127.0.0.1:5000)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
