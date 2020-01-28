@@ -79,19 +79,22 @@ How to step into IoT penetration testing
 
 ### 3. Bluetooth pentesting
    
-  - __Gattacker__
-  
-  - ___Running Gattacker___
+  - ___####Gattacker___
+
+	____Description:A Node.js package for BLE (Bluetooth Low Energy) Man-in-the-Middle & more.
+
+  - ___####Running Gattacker___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
     
-  - ___Running Gattacker___
+  - ___####Running Gattacker___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker2.JPG)
     
     
 ********************************************************************************************************************************
 
-   - ___btlejuice___
-     ____Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"
+   - ___####Btlejuice___
+   
+   ____Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"
     
 	  - Running btlejuice
           - btlejuice-proxy (__in vm__)
@@ -104,9 +107,11 @@ How to step into IoT penetration testing
 ******************************************************************************************************************************
 
   
-   - ___bettercap___
-     ____Description:
-        - #bettercap
+   - ___####bettercap___
+   
+     ____Description:The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks
+     
+        - ___####bettercap___
         - ble.recon on (recon the devices)
         - ble.recon off (stopr the recon)
         - ble.show (to see all scanned devices surrounded by us)
@@ -114,7 +119,7 @@ How to step into IoT penetration testing
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
            
         
-   - ___sudo bettercap -caplet https-ui (for web ui)___
+   - ___####sudo bettercap -caplet https-ui (for web ui)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/Selection_003.png)
   
   
@@ -123,25 +128,33 @@ How to step into IoT penetration testing
   
 ### 4. Firmware Revere engineering
     
-   - ___FACT Tool (Firmware analysis comparison toolkit)___
+   - ___####FACT Tool (Firmware analysis comparison toolkit)___
      ____Description:he Firmware Analysis and Comparison Tool (formerly known as Fraunhofer's Firmware Analysis Framework (FAF)) is intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analysis. Additionally, it can compare several images or single files.
      
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
      
-   - ___FACT UI (after running script ui will load at https://127.0.0.1:5000)___
+   - ___####FACT UI (after running script ui will load at https://127.0.0.1:5000)___
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/FACT-UI.png)
          
 	 
 *****************************************************************************************************************************
 
 ### 5. Hardware Exploitation
+	
+___####Flashrom___
+____Desscription:flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network
+cards (NICs), SATA controller cards, and other external devices which can program flash chips
+
+___####Openocd___
+____Description: OpenOCD is a free software on-chip debugging, in-system programming and boundary-scan testing tool for various ARM, MIPS and RISC-V
+
 
 ******************************************************************************************************************************
 
 
 ### ***Exploit Frameworks***
 	
-   ___expliot framework___
+   ___####expliot framework___
    ____Description:
    'Expliot is a framework for security testing IoT and IoT infrastructure. It provides a set of plugins (test cases)
 and can be extended easily to create new plugins. The name expliot is a pun on exploit and explains the purpose of
@@ -150,7 +163,7 @@ the framework i.e. IoT exploitation. It is developed in python3'
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
 
 ----------------------------------------------------------------------------------------------------------------------------------  
-   ___IoTSecFuzz___
+   ___####IoTSecFuzz___
    ____Description:
    IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.
 The key aspects of the tool has become a flexible modular system with the ability to add your own modules and combine them.
@@ -158,7 +171,7 @@ The key aspects of the tool has become a flexible modular system with the abilit
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
 
 -------------------------------------------------------------------------------------------------------------------------------------   
-   ___Routersploit___
+   ___####Routersploit___
    ____Description:
   The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.
 
