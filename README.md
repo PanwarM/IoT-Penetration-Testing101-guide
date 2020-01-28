@@ -14,7 +14,7 @@ How to step into IoT penetration testing
 | 3.[Routersploit](https://github.com/threat9/routersploit)			|
 
 
-| __Firmware Reverse engineering:__      |
+| __Firmware Reverse engineering    :__      |
 | ---------------------------------------|
 | 1. [binwalk](https://github.com/ReFirmLabs/binwalk)                            |
 | 2. [firmwalker](https://github.com/craigz28/firmwalker)                         |
