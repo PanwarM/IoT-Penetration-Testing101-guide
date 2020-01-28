@@ -97,9 +97,9 @@ How to step into IoT penetration testing
    ___Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"___
    								
   - Running btlejuice
-          - btlejuice-proxy (__in vm__)
-          - btlejuice -u (ip address) -w (__host linux__)
-          - localhost:8080 (__in any web browser - host machine__)
+  - btlejuice-proxy (__in vm__)
+  - btlejuice -u (ip address) -w (__host linux__)
+  - localhost:8080 (__in any web browser - host machine__)
 	  
      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/btlejuice/BTLE-JUICE.png)
   
@@ -116,7 +116,8 @@ How to step into IoT penetration testing
         - ble.recon off (stopr the recon)
         - ble.show (to see all scanned devices surrounded by us)
         - ble enum (bd addr)
-      ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
+    
+     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/bettercap/bettercap.png)
            
         
    - ___sudo bettercap -caplet https-ui (for web ui)___
