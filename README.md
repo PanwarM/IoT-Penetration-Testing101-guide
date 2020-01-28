@@ -81,7 +81,7 @@ How to step into IoT penetration testing
    
   - ___Gattacker___
 
-	____Description:A Node.js package for BLE (Bluetooth Low Energy) Man-in-the-Middle & more.
+	___Description:A Node.js package for BLE (Bluetooth Low Energy) Man-in-the-Middle & more.___
 
   - ___Running Gattacker___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
@@ -94,7 +94,7 @@ How to step into IoT penetration testing
 
    - ___Btlejuice___
    
-   ____Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"
+   ___Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"___
     
 	  - Running btlejuice
           - btlejuice-proxy (__in vm__)
@@ -109,7 +109,7 @@ How to step into IoT penetration testing
   
    - ___bettercap___
    
-     ____Description:The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks
+     ___Description:The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks___
      
         - ___bettercap___
         - ble.recon on (recon the devices)
@@ -129,7 +129,7 @@ How to step into IoT penetration testing
 ### 4. Firmware Revere engineering
     
    - ___FACT Tool (Firmware analysis comparison toolkit)___
-     ____Description:he Firmware Analysis and Comparison Tool (formerly known as Fraunhofer's Firmware Analysis Framework (FAF)) is intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analysis. Additionally, it can compare several images or single files.
+     ___Description:he Firmware Analysis and Comparison Tool (formerly known as Fraunhofer's Firmware Analysis Framework (FAF)) is intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analysis. Additionally, it can compare several images or single files.___
      
       ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
      
@@ -142,11 +142,11 @@ How to step into IoT penetration testing
 ### 5. Hardware Exploitation
 	
 ___Flashrom___
-____Desscription:flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network
-cards (NICs), SATA controller cards, and other external devices which can program flash chips
+___Desscription:flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network
+cards (NICs), SATA controller cards, and other external devices which can program flash chips___
 
 ___Openocd___
-____Description: OpenOCD is a free software on-chip debugging, in-system programming and boundary-scan testing tool for various ARM, MIPS and RISC-V
+___Description: OpenOCD is a free software on-chip debugging, in-system programming and boundary-scan testing tool for various ARM, MIPS and RISC-V___
 
 
 ******************************************************************************************************************************
@@ -155,24 +155,23 @@ ____Description: OpenOCD is a free software on-chip debugging, in-system program
 ### ***Exploit Frameworks***
 	
    ___expliot framework___
-   ____Description:
+   ___Description:
    'Expliot is a framework for security testing IoT and IoT infrastructure. It provides a set of plugins (test cases)
 and can be extended easily to create new plugins. The name expliot is a pun on exploit and explains the purpose of
-the framework i.e. IoT exploitation. It is developed in python3'
+the framework i.e. IoT exploitation. It is developed in python3'___
 
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
 
 ----------------------------------------------------------------------------------------------------------------------------------  
    ___IoTSecFuzz___
-   ____Description:
-   IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.
-The key aspects of the tool has become a flexible modular system with the ability to add your own modules and combine them.
+   ___Description:
+   IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.The key aspects of the tool has become a flexible modular system with the ability to add your own modules and combine them.___
    
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
 
 -------------------------------------------------------------------------------------------------------------------------------------   
    ___Routersploit___
-   ____Description:
-  The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.
+   ___Description:
+  The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.___
 
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
