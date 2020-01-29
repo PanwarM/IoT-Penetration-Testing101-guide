@@ -94,7 +94,7 @@ How to step into IoT penetration testing
 
    - ___Btlejuice___
    
-   ___Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"___
+   _Description:BtleJuice is a complete framework to perform Man-in-the-Middle attacks on Bluetooth Smart devices (also known as Bluetooth Low Energy)"BtleJuice is composed of two main components: an interception proxy and a core. These two components are required to run on independent machines in order to operate simultaneously two bluetooth 4.0+ adapters"_
    								
   - Running btlejuice
   - btlejuice-proxy (__in vm__)
@@ -131,7 +131,7 @@ How to step into IoT penetration testing
     
    - ___FACT Tool (Firmware analysis comparison toolkit)___
  
-   ___Description: Firmware Analysis and Comparison Tool (formerly known as Fraunhofer's Firmware Analysis Framework (FAF)) is intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analysis. Additionally, it can compare several images or single files.___
+   _Description: Firmware Analysis and Comparison Tool (formerly known as Fraunhofer's Firmware Analysis Framework (FAF)) is intended to automate most of the firmware analysis process. It unpacks arbitrary firmware files and processes several analysis. Additionally, it can compare several images or single files._
      
   
   ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/firmware/Selection_003.png)
@@ -147,12 +147,12 @@ How to step into IoT penetration testing
 	
 ___Flashrom___
 
-___Desscription: Flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network
-cards (NICs), SATA controller cards, and other external devices which can program flash chips___
+_Desscription: Flashrom is a utility for detecting, reading, writing, verifying and erasing flash chips. It is often used to flash BIOS/EFI/coreboot/firmware images in-system using a supported mainboard, but it also supports flashing of network
+cards (NICs), SATA controller cards, and other external devices which can program flash chips_
 
 ___Openocd___
 
-___Description: OpenOCD is a free software on-chip debugging, in-system programming and boundary-scan testing tool for various ARM, MIPS and RISC-V___
+_Description: OpenOCD is a free software on-chip debugging, in-system programming and boundary-scan testing tool for various ARM, MIPS and RISC-V_
 
 
 ******************************************************************************************************************************
@@ -162,18 +162,18 @@ ___Description: OpenOCD is a free software on-chip debugging, in-system programm
 	
    ___expliot framework___
    
-   ___Description:
+   _Description:
    'Expliot is a framework for security testing IoT and IoT infrastructure. It provides a set of plugins (test cases)
 and can be extended easily to create new plugins. The name expliot is a pun on exploit and explains the purpose of
-the framework i.e. IoT exploitation. It is developed in python3'___
+the framework i.e. IoT exploitation. It is developed in python3'_
 
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/expliot.JPG)
 
 ----------------------------------------------------------------------------------------------------------------------------------  
    ___IoTSecFuzz___
    
-   ___Description:
-   IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.The key aspects of the tool has become a flexible modular system with the ability to add your own modules and combine them.___
+   _Description:
+   IoTSecFuzz(ISF) was created with the aim of combining the maximum number of utilities for comprehensive testing of IoT device security at all levels of implementation. It has a convenient console in order to use it as a stand-alone application, as well as the ability to import it as a library.The key aspects of the tool has become a flexible modular system with the ability to add your own modules and combine them._
    
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/iotsecfuzz.JPG)
 
