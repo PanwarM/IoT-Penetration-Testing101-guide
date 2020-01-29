@@ -81,7 +81,7 @@ How to step into IoT penetration testing
    
   - ___Gattacker___
 
-	___Description:A Node.js package for BLE (Bluetooth Low Energy) Man-in-the-Middle & more.___
+	_Description:A Node.js package for BLE (Bluetooth Low Energy) Man-in-the-Middle & more._
 
   - ___Running Gattacker___
     ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/gattacker/gattacker1.JPG)
@@ -109,7 +109,7 @@ How to step into IoT penetration testing
   
    - ___bettercap___
    
-     ___Description:The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks___
+     _Description:The Swiss Army knife for 802.11, BLE and Ethernet networks reconnaissance and MITM attacks_
      
         - ___bettercap___
         - ble.recon on (recon the devices)
@@ -180,7 +180,7 @@ the framework i.e. IoT exploitation. It is developed in python3'_
 -------------------------------------------------------------------------------------------------------------------------------------   
    ___Routersploit___
    
-   ___Description:
-  The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices.___
+   _Description:
+  The RouterSploit Framework is an open-source exploitation framework dedicated to embedded devices._
 
    ![image](https://github.com/V33RU/Null-Bangalore-IoT-Security-101-workshop/blob/master/null/exploit%20framework/routersploit.JPG)
